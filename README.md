@@ -1,1 +1,1 @@
-# wedding-page
+In this CodeBerry lesson I had to reproduce the wedding page of Zoe and Alex.
